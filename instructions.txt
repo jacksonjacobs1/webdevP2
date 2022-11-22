@@ -1,0 +1,5 @@
+1. open a terminal and navigate to a path to clone the repo
+2. enter 'git clone https://github.com/jacksonjacobs1/webdevP2.git'
+3. enter 'cd webdevP2'
+4. enter 'npm install'
+5. enter 'npm start' to run the application.
